@@ -1,4 +1,4 @@
-name: Upload Portfolio
+name: Upload AWS
 
 on:
   push:
